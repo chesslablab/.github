@@ -9,7 +9,7 @@
 
 ![Demo](/assets/demo.png)
 
-[chesslablab.com](https://www.chesslablab.com) allows to learn and play chess online without being tracked. This is made possible because it does not use cookies of any sort and does not store information as other apps do, not even nicknames or chess games.
+[chesslablab.com](https://www.chesslablab.com) allows you to learn and play chess online without being tracked. This is made possible because it does not use cookies of any sort and does not store information as other apps do, not even nicknames or chess games.
 
 ChesslaBlab stands for chess laboratory actually.
 
