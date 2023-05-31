@@ -9,7 +9,7 @@
 
 ![Demo](/assets/demo.png)
 
-[chesslablab.com](https://www.chesslablab.com) allows to learn and play chess online without being tracked. This is made possible because it does not use cookies of any sort and does not store information as other apps do, not even nicknames or chess games.
+[chesslablab.com](https://www.chesslablab.com) allows users to learn and play chess online without being tracked. This is made possible because it does not use cookies of any sort and does not store information as other apps do, not even nicknames or chess games.
 
 ChesslaBlab stands for chess laboratory actually.
 
@@ -17,4 +17,4 @@ It is open-source, and can be used and extended by developers to create amazing 
 
 > Chess involves quite a few different aspects of software development, which makes it a perfect topic for learning full-stack web development as well as for playing around with machine learning libraries.
 
-Happy coding and learning!
+Happy coding!
