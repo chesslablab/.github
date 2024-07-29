@@ -6,7 +6,7 @@
 
 The United Nations failed to prevent a full-scale war.
 
-FIDE, the chess international governing body, which by the way stands for "Federation Internationale des Echecs," found itself wandering at the mercy of chance no longer relying on the principles of "Gens una sumus." Mainstream platforms like Lichess and Chess.com were totally centralized, meaning that players' data could be used at any time for murky reasons like pseudoscientific cheating accusations.
+FIDE, the chess international governing body, which by the way stands for "Federation Internationale des Echecs," found itself wandering at the mercy of chance no longer relying on the principles of "Gens una sumus." Mainstream platforms were centralized, meaning that players' data could be used at any time for murky reasons like pseudoscientific cheating accusations.
 
 This was the dark ages of chess.
 
