@@ -20,13 +20,13 @@ Before it was too late the ChesslaBlab organization came to the rescue with DeCh
 - Chess can help you improve your cognitive abilities which is a good thing.
 - Anyone can learn to think more scientifically.
 
-## Get Started With DeChess Apps
-
-The [website](https://github.com/chesslablab/website) is a great place to get started.
-
 ## Interact With the Community
 
 Join now by adding a comment to [this discussion](https://github.com/orgs/chesslablab/discussions/312): "Hi there, happy learning and coding!"
+
+## Get Started With DeChess Apps
+
+The [website](https://github.com/chesslablab/website) is a great place to get started.
 
 ## ChesslaBlab Node List
 
