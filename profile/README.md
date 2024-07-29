@@ -27,3 +27,9 @@ The [website](https://github.com/chesslablab/website) is a great place to get st
 ## Interact With the Community
 
 Join now by adding a comment to [this discussion](https://github.com/orgs/chesslablab/discussions/312): "Hi there, happy learning and coding!"
+
+## ChesslaBlab Node List
+
+The ChesslaBlab node list contains a list of domain names hosting the [PHP Chess Server](https://github.com/chesslablab/chess-server) and the [PHP Chess API](https://github.com/chesslablab/chess-api) for public consumption by DeChess apps like the [website](https://github.com/chesslablab/website).
+
+> Please note that the ChesslaBlab node list is still to be published.
