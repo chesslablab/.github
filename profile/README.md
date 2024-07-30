@@ -20,10 +20,6 @@ Before it was too late the ChesslaBlab organization came to the rescue with DeCh
 - Chess can help you improve your cognitive abilities which is a good thing.
 - Anyone can learn to think more scientifically.
 
-## Interact With the Community
-
-Join now by adding a comment to [this discussion](https://github.com/orgs/chesslablab/discussions/312): "Hi there, happy learning and coding!"
-
 ## Get Started With DeChess Apps
 
 The [website](https://github.com/chesslablab/website) is a great place to get started.
@@ -33,3 +29,7 @@ The [website](https://github.com/chesslablab/website) is a great place to get st
 The ChesslaBlab node list contains a list of domain names hosting the [PHP Chess Server](https://github.com/chesslablab/chess-server) and the [PHP Chess API](https://github.com/chesslablab/chess-api) for public consumption by DeChess apps like the [website](https://github.com/chesslablab/website).
 
 > Please note that the ChesslaBlab node list is still to be published.
+
+## Interact With the Community
+
+Join now by adding a comment to [this discussion](https://github.com/orgs/chesslablab/discussions/312): "Hi there, happy learning and coding!"
