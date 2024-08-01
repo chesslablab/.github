@@ -24,14 +24,20 @@ Before it was too late the ChesslaBlab organization came to the rescue with DeCh
 
 The [website](https://github.com/chesslablab/website) is a great place to get started.
 
-## ChesslaBlab Node List
+### Node List
 
-This is a list of domain names hosting the [PHP Chess Server](https://github.com/chesslablab/chess-server) and the [PHP Chess API](https://github.com/chesslablab/chess-api) for public consumption by DeChess apps like the [website](https://github.com/chesslablab/website).
+This is a list of domain names hosting the [PHP Chess Server](https://github.com/chesslablab/chess-server) and the [PHP Chess API](https://github.com/chesslablab/chess-api) for public consumption by DeChess apps.
 
-| Domain name | Port | Provider | Type | On-Demand Price/hr |
-| ----------- | ---- | -------- | ---- | ------------------ |
-| api.chesslablab.org | 9443 | AWS | t2.micro | $0.0116 |
-| async.chesslablab.org | 8443 | AWS | t2.micro | $0.0116 |
+| Domain name | Port | Provider | Type |
+| ----------- | ---- | -------- | ---- |
+| api.chesslablab.org | 9443 | AWS | t2.micro |
+| async.chesslablab.org | 8443 | AWS | t2.micro |
+
+### Websites
+
+This is a list of domain names hosting the [website](https://github.com/chesslablab/website).
+
+- chesslablab.org
 
 ## Interact With the Community
 
