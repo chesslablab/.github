@@ -26,7 +26,7 @@ The [website](https://github.com/chesslablab/website) is a great place to get st
 
 ## ChesslaBlab Node List
 
-Domain names hosting the [PHP Chess Server](https://github.com/chesslablab/chess-server) and the [PHP Chess API](https://github.com/chesslablab/chess-api) for public consumption by DeChess apps like the [website](https://github.com/chesslablab/website).
+This is a list of domain names hosting the [PHP Chess Server](https://github.com/chesslablab/chess-server) and the [PHP Chess API](https://github.com/chesslablab/chess-api) for public consumption by DeChess apps like the [website](https://github.com/chesslablab/website).
 
 | Domain name | Port | Provider | Type | On-Demand Price/hr |
 | ----------- | ---- | -------- | ---- | ------------------ |
