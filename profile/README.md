@@ -33,8 +33,6 @@ Domain names hosting the [PHP Chess Server](https://github.com/chesslablab/chess
 | api.chesslablab.org | 9443 | AWS | t2.micro | $0.0116 |
 | async.chesslablab.org | 8443 | AWS | t2.micro | $0.0116 |
 
-> Please note that the ChesslaBlab node list is still to be published.
-
 ## Interact With the Community
 
 Join now by adding a comment to [this discussion](https://github.com/orgs/chesslablab/discussions/312): "Hi there, happy learning and coding!"
