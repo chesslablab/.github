@@ -26,12 +26,12 @@ The [website](https://github.com/chesslablab/website) is a great place to get st
 
 ### Node List
 
-This is a list of domain names hosting the [PHP Chess Server](https://github.com/chesslablab/chess-server) and the [PHP Chess API](https://github.com/chesslablab/chess-api) for public consumption by DeChess apps.
+This is a list of domain names hosting the [PHP Chess Server](https://github.com/chesslablab/chess-server) for public consumption by DeChess apps.
 
-| Domain name | Port | Provider | Type |
-| ----------- | ---- | -------- | ---- |
-| api.chesslablab.org | 9443 | AWS | t2.micro |
-| async.chesslablab.org | 8443 | AWS | t2.micro |
+| Domain name | Port | Service Name | Description |
+| ----------- | ---- | ------------ | ----------- |
+| async.chesslablab.org | 9443 | data | Data over a WebSocket connection |
+| async.chesslablab.org | 8443 | game | Functionality over a WebSocket connection |
 
 ### Websites
 
