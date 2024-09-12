@@ -18,11 +18,7 @@ The [website](https://github.com/chesslablab/website) is a great place to get st
 
 This is a list of domain names hosting the [PHP Chess Server](https://github.com/chesslablab/chess-server) for public consumption by DeChess apps.
 
-| Domain name | Port | Service Name | Description |
-| ----------- | ---- | ------------ | ----------- |
-| async.chesslablab.org | 9443 | data | JSON-formatted data |
-| async.chesslablab.org | 8443 | game | Chess functionality |
-| async.chesslablab.org | 7443 | binary | Binary data |
+- async.chesslablab.org
 
 ### Websites
 
