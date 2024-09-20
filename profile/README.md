@@ -28,4 +28,4 @@ This is a list of domain names hosting the [website](https://github.com/chesslab
 
 ## Interact With the Community
 
-Join now by adding a comment to [this discussion](https://github.com/orgs/chesslablab/discussions/419): "Hi there, happy learning and coding!"
+Join now by adding a comment to [this discussion](https://github.com/orgs/chesslablab/discussions/465): "Hi there, happy learning and coding!"
