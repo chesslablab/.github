@@ -25,7 +25,3 @@ This is a list of domain names hosting the [PHP Chess Server](https://github.com
 This is a list of domain names hosting the [website](https://github.com/chesslablab/website).
 
 - chesslablab.org
-
-## Interact With the Community
-
-Join now by adding a comment to [this discussion](https://github.com/orgs/chesslablab/discussions/526): "Hi there, happy learning and coding!"
