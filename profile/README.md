@@ -4,9 +4,7 @@
 
 ## Get Started With DeChess Apps
 
-Anyone, regardless of age, race, gender or social background should have access to easy-to-use, safe and decentralized chess (DeChess) sites and be able to choose which one to use.
-
-The [website](https://github.com/chesslablab/website) is a great place to get started.
+Anyone, regardless of age, race, gender or social background should have access to easy-to-use, safe and decentralized chess (DeChess) sites. The [website](https://github.com/chesslablab/website) is a great place to get started.
 
 ### Node List
 
