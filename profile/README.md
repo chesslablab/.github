@@ -13,7 +13,7 @@ A chess site is safely decentralized if:
 - It is an open source site.
 - It does not store cookies in the users' browsers.
 - It does not collect information from users.
-- It is not linked to parasocial media profiles run by Big Tech.
+- It does not link to parasocial media profiles run by Big Tech.
 
 ### Node List
 
