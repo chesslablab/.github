@@ -11,7 +11,7 @@ Anyone, regardless of age, race, gender or social background should have access 
 A chess site is safely decentralized if the following guarantees are given to users:
 
 - It is an open source site.
-- It does not store cookies in the users' browser.
+- It does not store cookies in the users' browsers.
 - It does not collect information from users.
 - It is not linked to social media profiles.
 - It is not linked to any Big Tech.
