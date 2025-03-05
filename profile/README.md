@@ -6,6 +6,16 @@
 
 Anyone, regardless of age, race, gender or social background should have access to easy-to-use, safe and decentralized chess (DeChess) sites. The [website](https://github.com/chesslablab/website) is a great place to get started.
 
+### What Is a DeChess Site?
+
+A chess site is safely decentralized if the following guarantees are given to users:
+
+- It is an open source site.
+- It does not store cookies in the users' browser.
+- It does not collect information from users.
+- It is not linked to social media profiles.
+- It is not linked to any Big Tech.
+
 ### Node List
 
 This is a list of domain names hosting the [PHP Chess Server](https://github.com/chesslablab/chess-server) for public consumption by DeChess apps.
