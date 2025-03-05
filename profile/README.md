@@ -8,7 +8,7 @@ Anyone, regardless of age, race, gender or social background should have access 
 
 ### What Is a DeChess Site?
 
-A chess site is safely decentralized if the following guarantees are given to users:
+A chess site is safely decentralized if:
 
 - It is an open source site.
 - It does not store cookies in the users' browsers.
